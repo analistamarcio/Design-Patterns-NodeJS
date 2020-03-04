@@ -38,6 +38,7 @@
     "nodemon": "^2.0.2",
     "prettier": "^1.18.2",
     "sequelize-cli": "^5.5.1",
-    "sucrase": "^3.10.1"
+    "sucrase": "^3.12.1",
+    "webpack-dev-server": "^3.10.3"
   }
 }
